@@ -7,9 +7,9 @@ This repository contains the implementation and analysis of a comparative study 
 The repository includes:
 - Code for the proposed CNN and the comparative experiments.
 - The final report, which includes:
- - Comprehensive explanations of the CNN architectures and datasets.
- - Details on training methodologies and data preprocessing techniques.
- - Performance metrics and test results, highlighting the strengths and weaknesses of each model.
+  - Comprehensive explanations of the CNN architectures and datasets.
+  - Details on training methodologies and data preprocessing techniques.
+  - Performance metrics and test results, highlighting the strengths and weaknesses of each model.
 
 ## End Goal
 - Write a paper with your findings on the CNNs, with a thorough analysis and proofs.
