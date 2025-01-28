@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Machine Learning Project (CNNs)
 Final Project for CS 4375 in collaboration with Elliana Brown. For Dr.Feng Chen's class.
 
 ## Description
