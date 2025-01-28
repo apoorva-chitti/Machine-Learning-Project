@@ -1,4 +1,4 @@
-# Machine Learning Project: CNN Based
+# Machine Learning Project: CNNs Based
 Final Project for CS 4375 in collaboration with Elliana Brown. For Dr.Feng Chen's class.
 
 ## Description
