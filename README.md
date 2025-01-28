@@ -4,7 +4,7 @@ Final Project for CS 4375 in collaboration with Elliana Brown. For Dr.Feng Chen'
 ## Description
 This repository contains the implementation and analysis of a comparative study of Convolutional Neural Networks (CNNs). The project focuses on evaluating the performance of two widely used CNN architectures, AlexNet and VGG-16, alongside a newly proposed CNN model. The study benchmarks these models on three datasets: MNIST, Fashion-MNIST, and CIFAR-10. 
 
-The repository includes:
+It includes:
 - Code for the proposed CNN and the comparative experiments.
 - The final report, which includes:
   - Comprehensive explanations of the CNN architectures and datasets.
